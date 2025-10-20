@@ -83,8 +83,8 @@ Nous accueillons chaleureusement les contributions ! Voici comment vous pouvez a
 
 ##  Communauté
 
-<!-- - 💬 [Discord](https://discord.melodyhue.com) - Rejoignez notre communauté -->
-- 🐦 [Twitter](https://twitter.melodyhue.com) - Suivez nos actualités
+<!-- - 💬 [Discord](http://discord.melodyhue.com) - Rejoignez notre communauté -->
+- 🐦 [Twitter](http://twitter.melodyhue.com) - Suivez nos actualités
 - 📧 [Email](mailto:contact@melodyhue.com) - Contactez-nous
 
 ## 📄 Licence
